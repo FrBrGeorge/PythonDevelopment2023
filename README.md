@@ -1,7 +1,7 @@
-# PythonDevelopment2023
-Репозиторий в поддержку https://uneex.org/LecturesCMC/PythonDevelopment2023
+# PythonDevelopment2025
+Репозиторий в поддержку https://uneex.org/LecturesCMC/PythonDevelopment2025
 
-Для записи на курс надо зарегистрировать свой **публичный** git-репозиторий в виде ответа на [issue #55](https://github.com/FrBrGeorge/PythonDevelopment2023/issues/55)
+Для записи на курс надо зарегистрировать свой **публичный** git-репозиторий в виде ответа на [issue #55](https://github.com/FrBrGeorge/PythonDevelopment2023/issues/81)
 
 Обязательно указать:
 
